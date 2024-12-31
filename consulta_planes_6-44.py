@@ -2,6 +2,7 @@
 # %%
 import pandas as pd
 import openpyxl
+import streamlit as st
 
 
 st.title("📄 Índice de Planes de Acción SEC V1.0")
